@@ -1,0 +1,15 @@
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\bin\Debug\net8.0\ACtivity2.exe
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\bin\Debug\net8.0\ACtivity2.deps.json
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\bin\Debug\net8.0\ACtivity2.runtimeconfig.json
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\bin\Debug\net8.0\ACtivity2.dll
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\bin\Debug\net8.0\ACtivity2.pdb
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.AssemblyInfoInputs.cache
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.AssemblyInfo.cs
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.csproj.CoreCompileInputs.cache
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.sourcelink.json
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.dll
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\refint\ACtivity2.dll
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.pdb
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ACtivity2.genruntimeconfig.cache
+D:\Maglasang\APPSDEV\ACtivity2\ACtivity2\obj\Debug\net8.0\ref\ACtivity2.dll
